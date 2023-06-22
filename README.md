@@ -44,7 +44,7 @@ Our final and preferred model is the untuned random forest classifier which perf
 - From the dataset, we are able to predict that 7% of the customers are likely to churn.
 - From our sentiment analysis in the tweets, we find that most customer pain points are about canceled, delayed and missed flights.
 - We settled on the final model, which is the Random Forest Model which had the highest accuracy score as compared to other models.
-- The model has proven to have an accuracy of 86% in classying whether a tweet is postive, negative or neutral and it can be used to continuosly monitor the sentiments coming from the social media platforms.
+- The model has proven to have an accuracy of 86% in classfying whether a tweet is postive, negative or neutral and it can be used to continuosly monitor the sentiments coming from the social media platforms.
 
 ## **MODEL LIMITATIONS**
 
